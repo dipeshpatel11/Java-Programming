@@ -1,4 +1,4 @@
-// write bubble sort
+//bubble sort
 public class bubbleSort {
 
         // An optimized version of Bubble Sort 
